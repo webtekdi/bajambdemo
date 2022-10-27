@@ -1907,6 +1907,9 @@ a {
     .triangle-item>h2{
       font-size: 30px;
     }
+    .triangle-item>p{
+      font-size: 14px;
+    }
     .item-data{
       padding: 50px;
     }
@@ -1928,6 +1931,9 @@ a {
     }
     .triangle-item>h2{
       font-size: 30px;
+    }
+    .triangle-item>p{
+      font-size: 15px;
     }
     .item-data{
       padding: 60px;
@@ -1951,6 +1957,9 @@ a {
     .triangle-item>h2{
       font-size: 30px;
     }
+    .triangle-item>p{
+      font-size: 16px;
+    }
     .item-data{
       padding: 80px;
     }
@@ -1973,6 +1982,9 @@ a {
     .triangle-item>h2{
       font-size: 30px;
     }
+    .triangle-item>p{
+      font-size: 20px;
+    }
     .item-data{
       padding: 80px;
     }
@@ -1994,6 +2006,9 @@ a {
     }
     .triangle-item>h2{
       font-size: 30px;
+    }
+    .triangle-item>p{
+      font-size: 20px;
     }
     .item-data{
       padding: 80px;
