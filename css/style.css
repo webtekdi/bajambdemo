@@ -15,21 +15,16 @@ body{
     width: 100%;
     display: flex;
     justify-content: center;
+    overflow-x: hidden;
 }
 
 .container{
     max-width: 1000px !important;
     width: 100% !important;
+    overflow-x: hidden;
 }
 
-.header{
-    background-color: rgba(0,0,0,0.8);
-}
 
-.header-container{
-    width: 100%;
-    padding: 12px 0;
-}
 
 @media only screen and (max-width: 600px) {
   .container{
@@ -89,6 +84,14 @@ body{
 /* ---------------------Header---------------- */
 /* Desktop Nav */
 
+.header{
+  background-color: rgba(0,0,0,0.8);
+}
+
+.header-container{
+  width: 100%;
+  padding: 12px 0;
+}
 .nav-container {
   z-index: 300;
   font-family: Segoe UI;
@@ -719,7 +722,7 @@ a {
 /* -------------Middle Header-------- */
 .middle-header{
     background-color: black;
-    overflow: hidden;
+    /* overflow: hidden; */
 }
 
 .middle-header-container{
