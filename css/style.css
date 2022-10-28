@@ -1322,12 +1322,15 @@ a {
   background-color: #fff;
   font-family: Segoe UI;
   margin-bottom: 10px;
-  background-color: #030728;
-
+  /* background-color: #030728; */
+  background-color: #03195e;
+  background-image: radial-gradient(circle, #000b5a, #010138, #00061c);
 }
 
 .pr-section:nth-child(odd){
-  background-color: #030728;
+  /* background-color: #030728; */
+  background-color: #03195e;
+  background-image: radial-gradient(circle, #000b5a, #010138, #00061c);
 }
 
 .pr-section-container{
@@ -1374,6 +1377,10 @@ a {
 }
 .pr-info2>h1{
   color: #fff !important;
+  line-height: 1.07143;
+    font-weight: 600;
+    letter-spacing: -.005em;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
 }
 
 .pr-info>p{
@@ -1540,7 +1547,11 @@ a {
     font-size: 30px;
   }
   .pr-info>h1{
-    font-size: 48px;
+    font-size: 56px;
+    line-height: 1.07143;
+    font-weight: 600;
+    letter-spacing: -.005em;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
   }
   .pr-info>p{
     font-size: 17px;
@@ -1715,7 +1726,10 @@ a {
 }
 
 .sm-slider-item:first-child{
-  background-color: #030728;
+  /* background-color: #030728; */
+  background-color: #03195e;
+  background-image: radial-gradient(circle, #000b5a, #010138, #00061c);
+
 }
 
 .sm-slider-item:first-child>p{
@@ -2039,7 +2053,10 @@ a {
 
 
 .bg-slider{
-  background-color: #030728;
+  /* background-color: #030728; */
+  background-color: #03195e;
+  background-image: radial-gradient(circle, #000b5a, #010138, #00061c);
+
 }
 
 .bg-slide-one{
